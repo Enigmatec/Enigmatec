@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Abiodun
-#### I am a Backend Developer
-I am from Nigeria and a backend developer that has over 3years of experience working for various company as a contract and as a full time developer
+### Abiodun Toheeb
+An Adaptable backend developer with a strong track record in creating efficient, scalable web applications. Proficient in PHP/Laravel and Express js/Nest js, with a deep understanding of RESTful APIs and microservices architecture. Experienced in optimizing database queries, reducing query execution time by 40% and enhancing application performance. Skilled in implementing secure authentication and authorization mechanisms, ensuring data integrity and protection.”
 
 ## Skills and Experience
 * PHP
