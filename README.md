@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Enigmatec/Enigmatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Abiodun
+#### I am a Backend Developer
+I am from Nigeria and am a backend developer that has over 3years of experience working for various company as a contract and as a full time developer
 
-Here are some ideas to get you started:
+Skills: PHP/Laravel, Node js/Nest js/Express js, Tailwind, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
+
+
+
