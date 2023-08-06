@@ -8,6 +8,8 @@ An Adaptable backend developer with a strong track record in creating efficient,
 * Express js
 * Tailwind Css
 * HTML, CSS and JS
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Enigmatec&show_icons=true) 
   
 
 
