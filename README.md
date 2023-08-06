@@ -4,7 +4,8 @@ I am from Nigeria and a backend developer that has over 3years of experience wor
 
 Skills: PHP/Laravel, Node js/Nest js/Express js, Tailwind, 
 
-- 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Enigmatec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/toheeb-abiodun-283a92135//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Abhay_tec) 
 
 
 
