@@ -1,5 +1,5 @@
 ### Abiodun Toheeb, 👋
-An Adaptable backend developer with a strong track record in creating efficient, scalable web applications. Proficient in PHP/Laravel and Express js/Nest js, with a deep understanding of RESTful APIs and microservices architecture. Experienced in optimizing database queries, reducing query execution time by 40% and enhancing application performance. Skilled in implementing secure authentication and authorization mechanisms, ensuring data integrity and protection.”
+An Adaptable backend developer with a strong track record in creating efficient, scalable web applications. Proficient in PHP/Laravel and Express js/Nest js, with a deep understanding of RESTful APIs and microservices architecture. Experienced in optimizing database queries, reducing query execution time and enhancing application performance. Skilled in implementing secure authentication and authorization mechanisms, ensuring data integrity and protection.”
 
 ## Skills and Experience
 * PHP
