@@ -9,6 +9,9 @@ An Adaptable backend developer with a strong track record in creating efficient,
 * Express js
 * Tailwind Css
 * HTML, CSS and JS
+* AWS (S3 bucket, Ec2)
+* Docker,
+* Nginx
 
 
   
