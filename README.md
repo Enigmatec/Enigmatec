@@ -4,8 +4,8 @@ An Adaptable backend developer with a strong track record in creating efficient,
 ## Skills and Experience
 * PHP
 * Laravel
-* Nest js
 * Linux Admin
+* FastAPI
 * Express js
 * Tailwind Css
 * HTML, CSS and JS
